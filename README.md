@@ -10,6 +10,4 @@ I tend to pride myself for being able to pick up new languages and technologies 
 
 There's days I'm finding my way into Blockchain / Web3.
 
-Also, I'm on Twitter (although not super active) - [@ronaldlangeveld](https://twitter.com/ronaldlangeveld).
-
-
+Reach me on Twitter to get in touch, [@ronaldlangeveld](https://twitter.com/ronaldlangeveld)
