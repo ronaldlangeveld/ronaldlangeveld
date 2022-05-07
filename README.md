@@ -11,3 +11,6 @@ I tend to pride myself for being able to pick up new languages and technologies 
 Thesedays I mostly working with NodeJS and React.
 
 Reach me on Twitter to get in touch, [@ronaldlangeveld](https://twitter.com/ronaldlangeveld)
+
+* Bitcoin: `12RBngnoyYPdS91BHTtJZsymmGwkc51W8R`
+* Ethereum: `0x6D3bDc962b8cec7260322b82d88527F8eB6Cb1D5`
