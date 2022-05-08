@@ -1,5 +1,7 @@
 # Hello 👋
 
+[![wakatime](https://wakatime.com/badge/user/62abcd5c-e174-4c66-b32f-cbcd690606cc.svg)](https://wakatime.com/@62abcd5c-e174-4c66-b32f-cbcd690606cc)
+
 I'm Ronald and this is my GitHub Repo.
 You can find my little blog and a list of notable projects I've worked on, on my personal website, [https://ronaldlangeveld.com](https://www.ronaldlangeveld.com).
 
