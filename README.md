@@ -12,6 +12,8 @@ I tend to pride myself for being able to pick up new languages and technologies 
 
 Thesedays I mostly working with NodeJS and React.
 
+I still have a soft spot for Django, especially when building quick prototypes.
+
 Reach me on Twitter to get in touch, [@ronaldlangeveld](https://twitter.com/ronaldlangeveld)
 
 ## Wallets
