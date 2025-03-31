@@ -2,7 +2,7 @@
 
 I'm a Product Engineer at Ghost 👻, building really cool open-source publishing software.
 
-Born and raised in South Africa 🇿🇦, I've lived and studied in Seoul 🇰🇷 since the age of 18 and now work remotely, usually from South East Asia.
+Born and raised in South Africa 🇿🇦, currently based on South Korea.
 
 When not coding, I love capturing moments through the lens. I shoot digital and film.
 
